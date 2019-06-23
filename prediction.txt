@@ -1,0 +1,1 @@
+Negative : 12, Positive : 18
